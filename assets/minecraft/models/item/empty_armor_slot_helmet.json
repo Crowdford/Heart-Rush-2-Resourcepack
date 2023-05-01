@@ -1,1 +1,1 @@
-{"parent":"builtin/generated","textures":{"layer0":"item/empty_armor_slot_helmet"}}
+{"parent":"builtin/generated","textures":{"layer0":"item/empty_armor_slot_helmet"},"display":{"head":{"scale":[0,0,0]}}}

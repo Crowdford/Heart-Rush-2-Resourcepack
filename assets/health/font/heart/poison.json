@@ -7,9 +7,15 @@
 			"height": 24, 
 			"chars": ["HhFfUu","YyRrOo"]
 		},
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -3, "chars": [ "b" ] },
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -1, "chars": [ "d" ] },
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": 7, "chars": [ ">" ] },
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -10, "chars": [ "<" ] }
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "b": -1,
+                "d": 1,
+                ">": 8,
+                "<": -8
+            }
+        }
 	]
 }

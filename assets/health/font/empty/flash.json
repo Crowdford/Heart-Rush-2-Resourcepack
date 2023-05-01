@@ -7,8 +7,14 @@
 			"height": 24, 
 			"chars": ["eEuU","    "]
 		},
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -4, "chars": [ "b" ] },
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": 7, "chars": [ ">" ] },
-		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -10, "chars": [ "<" ] }
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "b": -2,
+                ">": 8,
+                "<": -8
+            }
+        }
 	]
 }

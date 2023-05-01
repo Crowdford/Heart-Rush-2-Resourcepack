@@ -52,5 +52,5 @@ void main() {
     data2Color = texture(Sampler0, vec2(61.0/64.0, 0.0)); // get data pixel #2
 	// detect if rendering face texture (=> blinking)
 	isFace = 0;
-	if(gl_VertexID >= 16 && gl_VertexID < 20) isFace = 1; // check if the vertex ids match the face
+	if(gl_VertexID >= 12 && gl_VertexID < 16) isFace = 1; // check if the vertex ids match the face
 }

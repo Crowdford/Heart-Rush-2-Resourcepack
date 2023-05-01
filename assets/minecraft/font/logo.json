@@ -1,5 +1,12 @@
 {
 	"providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
 		{ "type": "bitmap", "file": "minecraft:font/logo.png", "ascent": -8, "height": 128, "chars": ["\uE001\uE002"] },
 		{ "type": "bitmap", "file": "minecraft:font/logo.png", "ascent": 512, "height": 1024, "chars": ["\uE010\uE011"] },
 		{ "type": "bitmap", "file": "minecraft:font/logo.png", "ascent": 96, "height": 96, "chars": ["\uE012\uE013"] }
