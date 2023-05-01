@@ -1,0 +1,1 @@
+{"gui_light":"front","textures":{"glass":"minecraft:block/orange_stained_glass"},"elements":[{"from":[8,0,4],"to":[8,8,12],"color":5,"faces":{"west":{"uv":[0,0,16,16],"texture":"#glass"}}},{"from":[8,9,4],"to":[8,17,12],"color":5,"faces":{"west":{"uv":[0,0,16,16],"texture":"#glass"}}}],"display":{"gui":{"rotation":[0,90,0],"translation":[0,-10,0],"scale":[2,2,2]}}}

@@ -1,0 +1,1 @@
+{"variants":{"facing=down":{"model":"block/command_block"},"facing=up":{"model":"item/empty"},"facing=north":{"model":"block/red_wool"},"facing=east":{"model":"block/blue_wool"},"facing=south":{"model":"block/lime_wool"},"facing=west":{"model":"block/yellow_wool"}}}

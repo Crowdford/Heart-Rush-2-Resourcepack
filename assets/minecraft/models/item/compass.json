@@ -1,0 +1,1 @@
+{"textures":{"overlay":"gui/recipe_overlay_1"},"gui_light":"front","elements":[{"from":[-16,0,-16],"to":[32,0,32],"faces":{"up":{"uv":[0,0,11,11],"texture":"#overlay"}}}],"display":{"gui":{"rotation":[90,0,0],"translation":[75,-71,40],"scale":[3.664,3.665,3.665]}}}

@@ -1,0 +1,1 @@
+{"parent":"item/fire_charge","overrides":[{"predicate":{"custom_model_data":1},"model":"item/snowball2"}],"display":{"ground":{"scale":[0,0,0]}}}

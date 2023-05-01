@@ -1,0 +1,9 @@
+{
+	"providers": [
+		{ "type": "bitmap", "file": "health:gui/gold_numbers2.png", "ascent": -6, "height": 32, "chars": [ "01234","56789" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": 3, "chars": [ "s" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -5, "chars": [ "f" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -4, "chars": [ "<" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -9, "chars": [ "b" ] }
+	]
+}

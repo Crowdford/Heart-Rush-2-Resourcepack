@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/empty_armor_slot_helmet"},"overrides":[{"predicate":{"custom_model_data":1},"model":"block/carved_pumpkin"}]}
